@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lista de Recursos</string>
+    <string name="resource_list_title">Recursos de Aprendizaje</string>
+    <string name="add_resource">Agregar Recurso</string>
+    <string name="delete_resource">Eliminar Recurso</string>
+    <string name="edit_resource">Editar Recurso</string>
+    <string name="recurso">Bienvenido a la sección de Recursos de Aprendizaje.\n\nAquí encontrarás una variedad de materiales, como libros, tutoriales y videos, diseñados para ayudarte a profundizar en el campo de la ingeniería de sistemas.\n\nExplora y aprovecha al máximo estos recursos para potenciar tu aprendizaje.</string>
+    <string name="botonadd">Add Recurso</string>
+    <string name="boton_ver_recursos">Ver Recursos</string>
+    <string name="boton_buscar_recursos">Buscar Recursos</string>
+    <string name="titulo_lista_recursos">Lista de Recursos de Aprendizaje</string>
+
+    <string name="titulo_agregar_recurso">Agregar Recurso</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="hint_tipo">Tipo</string>
+    <string name="hint_enlace">Enlace</string>
+    <string name="hint_imagen">URL de la imagen</string>
+    <string name="boton_agregar">Agregar Recurso</string>
+    <string name="titulo_editar_recurso">Editar Recurso</string>
+    <string name="boton_actualizar">Actualizar Recurso</string>
+</resources>
