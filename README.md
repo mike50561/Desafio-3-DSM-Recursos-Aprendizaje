@@ -1,6 +1,6 @@
 # Desafio-3 DSM Recursos Aprendizaje
 
-# 🚀 Nombre de la Aplicación
+## 🚀 Nombre de la Aplicación
 -Desafio 3
 🎨 Recursos Aprendizaje
 
@@ -29,7 +29,7 @@ video demostrativo de la aplicación en el siguiente enlace:
 - [Video ]( )
 
 ## 📱 Imagen del Icono: 
-- [icono]( )
+- [icono](https://drive.google.com/file/d/1bChW-dWPe2ocQ7epEtLgj1aOaIYLgoPw/view?usp=sharing)
 
 ## 📄 Link de la Api para ver en navegador
 - [Link](https://66fdbb486993693089560e6f.mockapi.io/Desafio-DSM)
