@@ -20,11 +20,11 @@ El código fuente de la aplicación está disponible en este repositorio. La apl
 - **IDE**:  Android Studio.
 
 ## 📄 Documento PDF
-- [Documento]( )
+- [Documento](https://drive.google.com/file/d/1zTn2mvLULtyp7ZEgvBoGbQLANLVBRxUe/view?usp=sharing)
   
 ## 🎥 Enlace del Video
 video demostrativo de la aplicación en el siguiente enlace:
-- [Video ]( )
+- [Video ](https://drive.google.com/file/d/1NZ2eozlWU4bErt5aDVxYny5QQXoBYwjY/view?usp=sharing)
 
 ## 📱 Imagen del Icono: 
 - [icono](https://drive.google.com/file/d/1bChW-dWPe2ocQ7epEtLgj1aOaIYLgoPw/view?usp=sharing)
